@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Perscheid
+Comment=Martin Perscheid
+Type=Service
+X-KDE-ServiceTypes=Plasma/Comic
+Icon=icon.png
+
+X-KDE-Library=plasma_comic_krossprovider
+X-KDE-PluginInfo-Author=Hans-Peter Jansen
+X-KDE-PluginInfo-Email=hpj@urpla.net
+X-KDE-PluginInfo-Name=perscheid
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://plasma.kde.org/
+X-KDE-PluginInfo-License=GPLv2
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PlasmaComicProvider-SuffixType=Number
